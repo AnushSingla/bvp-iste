@@ -30,13 +30,18 @@ Navigate into the client folder:
 
 
 cd ISTE-WEB/client
+
 Install the dependencies:
 
 
 
 npm install
+
 Running the Development Server
+
 Once the dependencies are installed, you can start the development server.
+
+npm run dev
 
 
 
