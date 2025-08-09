@@ -41,7 +41,7 @@ Running the Development Server
 
 Once the dependencies are installed, you can start the development server.
 
-npm run dev
+
 
 
 
